@@ -14,7 +14,11 @@ Before we can run the QA/QC Dashboard on NDSU CCAST, make sure you have the foll
 
    ![Online Form](assets/2-Online%20form.gif)
 
+   ![Confirmation Email](assests/3-Confirmation-email.png)
+
+
    * You will get an email once your account has been approved.
+     ![Welcome Email](assests/4-Welcome-email.png)
 
 4. **Login with Bison Credentials**  
    Once approved, log in at <a href="https://ondemand.ccast.ndsu.edu" target="_blank">https://ondemand.ccast.ndsu.edu</a> using the same Bison Login credentials.

@@ -1,6 +1,0 @@
-title: QaqC-tutorial
-description: Quality Assessment and Quality Control of Response Variable
-theme: jekyll-theme-cayman
-
-plugins:
-  - jekyll-include-cache

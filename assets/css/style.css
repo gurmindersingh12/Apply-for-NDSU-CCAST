@@ -1,10 +1,8 @@
-/* widen content area + spacing */
 .page-content .wrapper {
-  max-width: 1200px !important;   /* wider than default */
-  padding: 2rem 2rem !important;
+  max-width: 1200px !important;
+  padding: 2rem !important;
 }
 
-/* header tweaks: smaller banner and tighter vertical space */
 .page-header {
   padding: 2.5rem 1rem !important;
 }
@@ -18,12 +16,10 @@
   opacity: 0.95;
 }
 
-/* optional: hide the "View on GitHub" button */
 .site-button {
   display: none !important;
 }
 
-/* better body typography */
 body {
   line-height: 1.7;
   font-size: 18px;
@@ -36,15 +32,12 @@ h1, h2, h3 {
 h2 { font-size: 1.6rem; }
 h3 { font-size: 1.25rem; }
 
-/* lists spacing */
 ul, ol { padding-left: 1.25rem; }
 li { margin: 0.4rem 0; }
 
-/* links */
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-/* images/GIFs responsive + subtle frame */
 img {
   max-width: 100%;
   height: auto;
@@ -53,7 +46,6 @@ img {
   margin: 0.5rem 0 1.25rem 0;
 }
 
-/* optional: a soft container around each "step" section */
 .step {
   background: #ffffff;
   border: 1px solid rgba(0,0,0,.06);

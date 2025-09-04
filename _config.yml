@@ -2,6 +2,5 @@ title: QaqC-tutorial
 description: Quality Assessment and Quality Control of Response Variable
 theme: jekyll-theme-cayman
 
-# Optional: nicer URLs for extra pages like step1.md, step2.md later
 plugins:
   - jekyll-include-cache

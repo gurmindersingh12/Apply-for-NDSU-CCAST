@@ -33,7 +33,7 @@ Before we can run the applications on NDSU CCAST, make sure you have the followi
 
 **3. Welcome Email**
 
-    You will get an email once your account has been approved.
+    You will get another email once your account has been approved.
     
    ![Welcome Email](assets/4-Welcome-email.png)
 

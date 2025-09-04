@@ -16,7 +16,7 @@ Before we can run the applications on NDSU CCAST, make sure you have the followi
 
 
    ---
-   After you click on -->, you will see the following window:
+   `After you click on -->, you will see the following window:`
 
    ![Online Form 2](assets/2-online-form-2.gif)
 

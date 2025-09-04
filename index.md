@@ -5,10 +5,9 @@ title: QaqC-tutorial
 
 <link rel="stylesheet" href="assets/css/style.css">
 
-
 <div class="step">
 
-**Step 0: Prerequisites**
+## Step 0: Prerequisites
 
 Before we can run the QA/QC Dashboard on NDSU CCAST, make sure you have the following ready:
 
@@ -18,15 +17,15 @@ Before we can run the QA/QC Dashboard on NDSU CCAST, make sure you have the foll
 2. **Apply for a CCAST Account**  
    Go to: <a href="https://www.ndsu.edu/ccast" target="_blank">https://www.ndsu.edu/ccast</a>
 
-![Apply for CCAST](assets/1-Apply%20for%20CCAST.gif)
+   ![Apply for CCAST](assets/1-Apply%20for%20CCAST.gif)
 
-Fill out the online form to request a CCAST account.
+   Fill out the online form to request a CCAST account.
 
-![Online Form](assets/2-Online%20form.gif)
+   ![Online Form](assets/2-Online%20form.gif)
 
-You will get an email once your account has been approved.
+   You will get an email once your account has been approved.
 
 3. **Login with Bison Credentials**  
-Once approved, log in at <a href="https://ondemand.ccast.ndsu.edu" target="_blank">https://ondemand.ccast.ndsu.edu</a> using the same Bison Login credentials.
+   Once approved, log in at <a href="https://ondemand.ccast.ndsu.edu" target="_blank">https://ondemand.ccast.ndsu.edu</a> using the same Bison Login credentials.
 
 </div>

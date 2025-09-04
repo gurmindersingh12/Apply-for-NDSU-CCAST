@@ -1,3 +1,10 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="assets/css/style.css">
+
+
 **Step 0: Prerequisites**
 
 Before we can run the QA/QC Dashboard on NDSU CCAST, make sure you have the following ready:

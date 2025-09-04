@@ -13,9 +13,12 @@ Before we can run the QA/QC Dashboard on NDSU CCAST, make sure you have the foll
 
    * Go to: https://www.ndsu.edu/ccast
 
-![Uploading Recording 2025-09-04 at 12.16.06.gif…]()
+   ![Apply for CCAST](assets/1-Apply%20for%20CCAST.gif)
 
    * Fill out the online form to request a CCAST account.
+   * 
+   ![Online Form](assets/2-Online%20form.gif)
+
    *  You will get an email once your account has been approved.
 
 

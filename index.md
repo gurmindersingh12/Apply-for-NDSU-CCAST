@@ -14,6 +14,9 @@ Before we can run the applications on NDSU CCAST, make sure you have the followi
 
    ![Online Form](assets/2-Online%20form.gif)
 
+
+   ---
+
    ![Online Form 2](assets/2-online-form-2.gif)
 
    * * *

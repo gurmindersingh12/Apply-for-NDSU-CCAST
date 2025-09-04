@@ -1,6 +1,6 @@
 **Step 0: Prerequisites**
 
-Before we can run the QA/QC Dashboard on NDSU CCAST, make sure you have the following ready:
+Before we can run the applications on NDSU CCAST, make sure you have the following ready:
 
 **1. NDSU Email Address**  
    You must have an active NDSU email (e.g., firstname.lastname@ndsu.edu).

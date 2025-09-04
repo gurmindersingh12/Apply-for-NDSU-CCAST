@@ -1,13 +1,4 @@
----
-layout: default
-title: QaqC-tutorial
----
-
-<link rel="stylesheet" href="assets/css/style.css">
-
-<div class="step">
-
-## Step 0: Prerequisites
+**Step 0: Prerequisites**
 
 Before we can run the QA/QC Dashboard on NDSU CCAST, make sure you have the following ready:
 

@@ -19,6 +19,7 @@ Before we can run the QA/QC Dashboard on NDSU CCAST, make sure you have the foll
 * * *
 
 **3. Welcome Email**
+
     You will get an email once your account has been approved.
     
    ![Welcome Email](assets/4-Welcome-email.png)

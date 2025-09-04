@@ -22,7 +22,7 @@ Before we can run the applications on NDSU CCAST, make sure you have the followi
 
    * * *
 
-   `You will receive an email from CCAST that "We received your request ..."`
+   `After you click on -->, You will receive an email from CCAST that "We received your request ..."`
 
      
    ![Confirmation Email](assets/3-Confirmation-email.png)
